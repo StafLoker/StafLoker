@@ -11,10 +11,9 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 
-## Statistics
+<h2 align="center">📈 My Stats:</h2>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=stafloker&show_icons=true&theme=transparent&hide=stars,contribs&bg_color=00000000)](https://github.com/anuraghazra/github-readme-stats)
-
 
 <!--- 
 # Useful for future
