@@ -5,11 +5,11 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-mocha-rho.vercel.app/api?username=stafloker&show_icons=true&theme=transparent&bg_color=00000000" />
+    <img src="https://github-readme-stats-mocha-rho.vercel.app/api?username=stafloker&show_icons=true&theme=transparent" />
   </a>
   <br>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-mocha-rho.vercel.app/api/top-langs/?username=stafloker&theme=transparent" />
+    <img src="https://github-readme-stats-mocha-rho.vercel.app/api/top-langs/?username=stafloker&theme=transparent&hide=jupyter%20notebook" />
   </a>
 </div>
 
