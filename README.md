@@ -35,6 +35,17 @@
           </a>
         </td>
       </tr>
+      <tr>
+        <td>
+          <a href="https://github.com/StafLoker/ddns-porkbun-script">
+            <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=dddns-porkbun-script&theme=transparent" />
+          </a>
+        </td>
+        <td>
+        </td>
+        <td>
+        </td>
+      </tr>
     </table>
   </div>
 </details>
