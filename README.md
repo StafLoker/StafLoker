@@ -16,36 +16,21 @@
 <details>
   <summary>📦 Util repos</summary>
   <br>
-  <div align="center">
-    <table>
-      <tr>
-        <td>
-          <a href="https://github.com/StafLoker/base-repository">
-            <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=base-repository&theme=transparent" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/StafLoker/linux-utils">
-            <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=linux-utils&theme=transparent" />
-          </a>
-        </td>
-        <td>
-          <a href="https://github.com/StafLoker/setup-debian-vps">
-            <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=setup-debian-vps&theme=transparent" />
-          </a>
-        </td>
-      </tr>
-      <tr>
-        <td>
-          <a href="https://github.com/StafLoker/ddns-porkbun-script">
-            <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=dddns-porkbun-script&theme=transparent" />
-          </a>
-        </td>
-        <td>
-        </td>
-        <td>
-        </td>
-      </tr>
-    </table>
+  <div align="left">
+    <a href="https://github.com/StafLoker/base-repository">
+      <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=base-repository&theme=transparent" />
+    </a>
+    <br>
+    <a href="https://github.com/StafLoker/linux-utils">
+      <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=linux-utils&theme=transparent" />
+    </a>
+    <br>
+    <a href="https://github.com/StafLoker/setup-debian-vps">
+      <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=setup-debian-vps&theme=transparent" />
+    </a>
+    <br>
+    <a href="https://github.com/StafLoker/ddns-porkbun-script">
+      <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=ddns-porkbun-script&theme=transparent" />
+    </a>
   </div>
 </details>
