@@ -25,10 +25,6 @@
       <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=linux-utils&theme=transparent" />
     </a>
     <br>
-    <a href="https://github.com/StafLoker/setup-debian-vps">
-      <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=setup-debian-vps&theme=transparent" />
-    </a>
-    <br>
     <a href="https://github.com/StafLoker/ddns-porkbun-script">
       <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=ddns-porkbun-script&theme=transparent" />
     </a>
