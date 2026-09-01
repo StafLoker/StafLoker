@@ -24,9 +24,12 @@
     <a href="https://github.com/StafLoker/linux-utils">
       <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=linux-utils&theme=transparent" />
     </a>
-    <br>
     <a href="https://github.com/StafLoker/ddns-porkbun-script">
       <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=ddns-porkbun-script&theme=transparent" />
+    </a>
+    <br>
+    <a href="https://github.com/StafLoker/docusaurus-plugin-image-zoom">
+      <img src="https://github-readme-stats-mocha-rho.vercel.app/api/pin/?username=stafloker&repo=docusaurus-plugin-image-zoom&theme=transparent" />
     </a>
   </div>
 </details>
