@@ -3,7 +3,7 @@
 <h3 align="center">
   <a href="https://git.io/typing-svg">
     <img
-      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7A87F&center=true&vCenter=true&random=false&width=601&lines=%22There's+always+some+tragedy+behind+the+beautiful%22;%22Treat+the+soul+with+sensations%2C+and+let+the+sensations+treat+the+soul%22"
+      src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=F7A87F&center=true&vCenter=true&random=false&width=601&lines=%22There's+always+some+tragedy+behind+the+beautiful%22"
       alt="Typing SVG"
     />
   </a>
